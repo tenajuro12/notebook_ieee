@@ -1,0 +1,5 @@
+configuration,L2_mean,L2_sd,L1_mean,L1_sd,delta_L2_vs_reported,p_paired_bootstrap,verdict
+reported configuration,0.538,0.008,0.578,0.016,,,
+- parent term at inference,0.556,0.009,0.598,0.028,0.0189,0.034,within CI after Bonferroni
+- hierarchy entirely (flat head),0.533,0.031,0.559,0.021,-0.0044,0.688,within CI
+cross-entropy instead of focal,0.549,0.016,0.586,0.009,0.0116,0.2,within CI

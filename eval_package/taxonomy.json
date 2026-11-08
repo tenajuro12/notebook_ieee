@@ -1,0 +1,44 @@
+{
+  "classes_level2": [
+    "Joy",
+    "Hopelessness",
+    "Worthlessness",
+    "Exhaustion",
+    "Loneliness",
+    "Frustration",
+    "Indignation",
+    "Shame",
+    "Fear",
+    "Surprise",
+    "Disgust",
+    "Neutral"
+  ],
+  "level1_parent": {
+    "Joy": "Joy",
+    "Hopelessness": "Sadness",
+    "Worthlessness": "Sadness",
+    "Exhaustion": "Sadness",
+    "Loneliness": "Sadness",
+    "Frustration": "Anger",
+    "Indignation": "Anger",
+    "Shame": "Shame",
+    "Fear": "Fear",
+    "Surprise": "Surprise",
+    "Disgust": "Disgust",
+    "Neutral": "Neutral"
+  },
+  "shame_marker_roots": [
+    "ұя",
+    "уя",
+    "стыд",
+    "позор",
+    "неловк",
+    "стесня",
+    "кринж"
+  ],
+  "counts": {
+    "training_pool_authentic": 2054,
+    "evaluation_set": 413,
+    "near_duplicate_pairs_across_splits": 5
+  }
+}

@@ -1,0 +1,4 @@
+granularity,n,raw_agreement,cohens_kappa
+twelve classes,100,0.73,0.699
+"twelve classes, Neutral excluded",72,0.833,0.815
+eight base classes,100,0.76,0.715
