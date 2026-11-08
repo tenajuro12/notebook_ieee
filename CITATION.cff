@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the paper below."
+title: "Emotion Classification in Kazakh Social Media: code, annotation guidelines and privacy-preserving evaluation package"
+authors:
+  - family-names: Sabyrov
+    given-names: Tenelbek
+    affiliation: "Astana IT University"
+  - family-names: Sadirmekova
+    given-names: Zhanna
+    affiliation: "Astana IT University"
+license: CC-BY-4.0
+repository-code: "https://github.com/tenajuro12/notebook_ieee"
+preferred-citation:
+  type: conference-paper
+  title: "Emotion Classification in Kazakh Social Media: What Limits Performance in a Low-Resource Setting?"
+  authors:
+    - family-names: Sabyrov
+      given-names: Tenelbek
+    - family-names: Sadirmekova
+      given-names: Zhanna
+  collection-title: "Proceedings of the International Conference on Innovative Computing and Communication Technologies and Applied Computing Systems (ICTACS)"
+  year: 2026

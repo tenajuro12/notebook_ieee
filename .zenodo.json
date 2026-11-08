@@ -1,0 +1,17 @@
+{
+  "title": "Emotion Classification in Kazakh Social Media: code, annotation guidelines and privacy-preserving evaluation package",
+  "upload_type": "software",
+  "description": "<p>Companion release for <em>Emotion Classification in Kazakh Social Media: What Limits Performance in a Low-Resource Setting?</em> (ICTACS-2026).</p><p>Contains the hierarchical LaBSE classifier, the nine reference systems, the design-choice ablation and learning-curve experiments, the inter-annotator agreement script, the collection script, and a privacy-preserving evaluation package. The package gives, for each of the 2,467 authentic Kazakh and Kazakh-Russian posts, a SHA-256 hash of the normalised text together with its label, base-emotion parent, source family, length and explicit-shame-marker flag, which is enough to verify the counts and recompute the reported per-class and macro figures without the post text. The annotation guidelines are included in the Russian working version actually used and in an English rendering.</p><p>The post text itself is not included and is available from the authors under a data-use agreement.</p>",
+  "creators": [
+    { "name": "Sabyrov, Tenelbek", "affiliation": "Astana IT University" },
+    { "name": "Sadirmekova, Zhanna", "affiliation": "Astana IT University" }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "Kazakh language", "low-resource NLP", "emotion classification",
+    "hierarchical classification", "annotation", "inter-annotator agreement",
+    "LaBSE", "social media", "Turkic languages", "evaluation methodology"
+  ]
+}

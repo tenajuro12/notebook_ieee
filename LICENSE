@@ -1,0 +1,23 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Tenelbek Sabyrov and Zhanna Sadirmekova, Astana IT University
+
+This work — the code, the annotation guidelines and the privacy-preserving evaluation
+package in this repository — is licensed under the Creative Commons Attribution 4.0
+International License. You are free to share and adapt the material for any purpose,
+including commercially, provided you give appropriate credit, link to the license, and
+indicate if changes were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+NOT COVERED BY THIS LICENCE
+
+The anonymised post text of the corpus is not part of this repository and is not released
+under CC BY 4.0. It is available from the authors for non-commercial research use under a
+separate data-use agreement, whose terms are set out in eval_package/README.md.
+
+Attribution:
+
+  T. Sabyrov and Zh. Sadirmekova, "Emotion Classification in Kazakh Social Media:
+  What Limits Performance in a Low-Resource Setting?", in Proc. Int. Conf. on Innovative
+  Computing and Communication Technologies and Applied Computing Systems (ICTACS), 2026.
